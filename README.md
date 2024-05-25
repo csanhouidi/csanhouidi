@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cedric Sanhouidi</h1>
+<h1 align="center">Hello 👋, I'm Cedric Sanhouidi</h1>
 <h3 align="center">A multi Cloud DevOps engineer from Houston , Texas</h3>
 
 - 🔭 I’m currently working on **Azure DevOps Pipelines**
